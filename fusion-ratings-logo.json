@@ -1,0 +1,30 @@
+[
+  {
+    "name": "IMDb (IM)",
+    "url": "https://i.postimg.cc/3rmGjsHD/IMDB.png"
+  },
+  {
+    "name": "Rotten Tomatoes Tomatometer (RT)",
+    "url": "https://i.postimg.cc/dQrCRbKj/Tomatometer.png"
+  },
+  {
+    "name": "Rotten Tomatoes Popcornmeter (PC)",
+    "url": "https://i.postimg.cc/zDKhws1K/Popcornmeter.png"
+  },
+  {
+    "name": "TMDb (TM)",
+    "url": "https://i.postimg.cc/WpgZmBPG/TMDB.png"
+  },
+  {
+    "name": "Trakt (TR)",
+    "url": "https://i.postimg.cc/mZC93vGw/Trakt.png"
+  },
+  {
+    "name": "Letterboxd (LB)",
+    "url": "https://i.postimg.cc/c1w37pNn/Letterboxd.png"
+  },
+  {
+    "name": "MDBList (MD)",
+    "url": "https://i.postimg.cc/HWXM0qCM/MDBList.png"
+  }
+]
