@@ -1,0 +1,88 @@
+{
+  "exportType": "fusionWidgets",
+  "exportVersion": 1,
+  "widgets": [
+    {
+      "dataSource": {
+        "kind": "collection",
+        "payload": {
+          "items": [
+            {
+              "hideTitle": true,
+              "id": "45DD2AC9-E44E-468D-92AF-BCAE70807B27",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/action-poster.png",
+              "title": "Action"
+            },
+            {
+              "hideTitle": true,
+              "id": "EC0B4DF4-56CC-45EB-AA95-D1A0FD9F1344",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/comedy-poster.png",
+              "title": "Comedy"
+            },
+            {
+              "hideTitle": true,
+              "id": "078D7B8B-9DED-4FA3-848A-F1EB3CEADB1B",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/crime-poster.png",
+              "title": "Crime"
+            },
+            {
+              "hideTitle": true,
+              "id": "C5C665B4-261B-48E1-BE40-66F194F021F3",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/drama-poster.png",
+              "title": "Drama"
+            },
+            {
+              "hideTitle": true,
+              "id": "CD7A2EB7-AE05-466A-A842-3218379CD8A3",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/fantasy-poster.png",
+              "title": "Fantasy"
+            },
+            {
+              "hideTitle": true,
+              "id": "4B43F646-08CA-4060-9CA5-C6E5D75BA724",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/horror-poster.png",
+              "title": "Horror"
+            },
+            {
+              "hideTitle": true,
+              "id": "FF2C7F0F-2D4A-4C61-ACCD-54751A1D9A59",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/kids-poster.png",
+              "title": "Kids"
+            },
+            {
+              "hideTitle": true,
+              "id": "65DAFFBD-D788-44D5-8CB3-B05B8C728D5F",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/romance-poster.png",
+              "title": "Romance"
+            },
+            {
+              "hideTitle": true,
+              "id": "18A722CC-77CC-4689-9C33-7689364913B4",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/scifi-poster.png",
+              "title": "Scifi"
+            },
+            {
+              "hideTitle": true,
+              "id": "23E227B1-58DC-4CDF-A192-7E9618DB17B9",
+              "imageAspect": "poster",
+              "imageURL": "https://raw.githubusercontent.com/itsrenoria/fusion-starter-kit/refs/heads/main/resources/widgets/genres/poster/mousa.a/thriller-poster.png",
+              "title": "Thriller"
+            }
+          ]
+        }
+      },
+      "id": "collection.F2CDD89D-70C3-4466-BF0D-E89089F47D0D",
+      "title": "Genres",
+      "type": "collection.row"
+    }
+  ]
+}
